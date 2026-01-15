@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Govind Kumar Jangid</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
-<!--
-**govindkumarjangid/govindkumarjangid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 Passionate Full Stack Developer  
+🚀 Currently working on MERN Projects  
+📚 Learning DSA & Backend Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,tailwind,git" />
+
+---
+
+## 🚀 Projects
+- 🚗 Car Rental Website (MERN)
+- 💬 Real-time Chat App
+- 🛒 E-commerce Platform
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: govind@email.com
