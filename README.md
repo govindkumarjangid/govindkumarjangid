@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar Jangid</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
   🎓 Student | 💻 MERN Stack Developer <br>
   🚀 Passionate about building full-stack web applications
+</p>
+
+<p align="center">
+  <a href="https://your-resume-link.pdf">
+    <img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge">
+  </a>
 </p>
 
 <hr/>
@@ -12,11 +22,13 @@
 <p>
   I am a student and a MERN Stack Developer who enjoys building real-world
   projects using modern web technologies. I focus on writing clean code
-  and improving my skills every day.
+  and improving my skills every day. I building full-stack applications, working with APIs,
+  and converting ideas into functional products.
 </p>
 
+
 <p>
-  🎯 Goal: Become a Professional Full Stack Developer
+  🎯 <b>Goal:</b> To become a professional Full Stack Developer and work on impactful products.
 </p>
 
 <hr>
