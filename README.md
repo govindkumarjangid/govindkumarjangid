@@ -5,7 +5,7 @@
   🚀 Passionate about building full-stack web applications
 </p>
 
-<hr>
+<hr/>
 
 <h2>🧑‍💻 About Me</h2>
 
@@ -23,13 +23,19 @@
 
 <h2>🛠️ Tech Stack</h2>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+
 <h3>Frontend</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
 </p>
 
 <h3>Backend</h3>
@@ -74,6 +80,9 @@
   🔗 <a href="https://github.com/govindkumarjangid/CarRental">
     GitHub Repository
   </a>
+    🔗 <a href="https://car-rental-delta-rosy.vercel.app/">
+    Live Preview
+  </a>
 </p>
 
 <hr>
@@ -108,6 +117,9 @@
   🔗 <a href="https://github.com/your-username/world-atlas-react">
     GitHub Repository
   </a>
+  🔗 <a href="https://govind-world-atlas.netlify.app/">
+    Live Preview
+  </a>
 </p>
 
 <hr>
@@ -125,6 +137,9 @@
   🔗 <a href="https://github.com/govindkumarjangid/Weather-App">
     GitHub Repository
   </a>
+  🔗 <a href="https://govind-weather-web.netlify.app/">
+    GitHub Repository
+  </a>
 </p>
 
 <hr>
@@ -132,9 +147,12 @@
 
 
 <h2>📫 Connect With Me</h2>
+<p>
+  I’m open to internships, learning opportunities, and collaborations.
+</p>
 
 <p>
-  <a href="https://github.com/govindkumarjangid/govindkumarjangid">
+  <a href="https://github.com/govindkumarjangid/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/govind-kumar-jangid-973820360/">
