@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Student | 💻 MERN Stack Developer <br>
+  🎓 Student | 💻 Full Stack Developer <br>
   🚀 Passionate about building full-stack web applications
 </p>
 
