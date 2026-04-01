@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-resume-link.pdf">
+  <a href="https://drive.google.com/file/d/1L2e-URmsLgEHE1LOqIH9AYsRMjj9JcGD/view">
     <img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge">
   </a>
 </p>
